@@ -1,2 +1,4 @@
 green
 blue
+red
+white
